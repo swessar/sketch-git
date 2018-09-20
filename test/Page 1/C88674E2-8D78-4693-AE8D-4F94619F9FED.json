@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Brown-Regular",
+              "name": "ComicSansMS",
               "size": 18
             }
           },
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 512,
-    "x": 299,
+    "width": 504,
+    "x": 303,
     "y": 336
   },
-  "glyphBounds": "{{1, 7}, {510, 18}}",
+  "glyphBounds": "{{0, 6}, {503, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Brown-Regular",
+            "name": "ComicSansMS",
             "size": 18
           }
         },

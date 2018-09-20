@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "BrownStd-Light",
-              "size": 40
+              "name": "ComicSansMS",
+              "size": 36
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 164,
-    "x": 647,
-    "y": 402
+    "height": 50,
+    "width": 162,
+    "x": 679,
+    "y": 401
   },
-  "glyphBounds": "{{3, 9}, {160, 30}}",
+  "glyphBounds": "{{1, 14}, {159, 28}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -86,8 +86,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "BrownStd-Light",
-            "size": 40
+            "name": "ComicSansMS",
+            "size": 36
           }
         },
         "paragraphStyle": {
